@@ -1,0 +1,6 @@
+Analysis of Variance Table
+
+Response: x_position
+               Df Sum Sq Mean Sq F value Pr(>F)
+Condition_name  1      0       0               
+Residuals       6      0       0               

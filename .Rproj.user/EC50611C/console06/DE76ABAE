@@ -1,0 +1,259 @@
+[?25l$ git remote add origin https://github.com/zcolburn/Colle[0Kc
+tiveCellMigration.git[0K[?25h[?25l
+[0K[?25hfatal: remote origin already exists.[0K[?25l
+[0K[?25h[?25l
+[0;32mZacharyColburn@Hathker [0;35m [0;33m/f/F_Drive/Graduate school/Resear[0Kc
+h/A549/Scratch assays/CMA_v1_small[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push -u origin master[0K[?25h[?25l
+[0K[?25hCounting objects: 36, done.[0K[?25l
+Delta compression using up to 8 threads.[0K
+Compressing objects:  31% (10/32)[0K[1G[?25hCompressing objects: 100% (32/32), done.[0K[?25l
+Writing objects:  36% (13/36)[0K[1G[?25h[?25lWriting objects:  41% (15/36)[0K[1G[?25h[?25lWriting objects:  41% (15/36), 16.00 KiB | 0 bytes/s[0K[1G[?25hWriting objects:  41% (15/36), 984.00 KiB | 68.00 KiB/s[0K[?25l
+[0K[?25h[?25lWriting objects:  41% (15/36), 1.26 MiB | 83.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 1.52 MiB | 94.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 1.63 MiB | 96.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 1.96 MiB | 109.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 2.24 MiB | 258.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 2.49 MiB | 247.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 2.74 MiB | 240.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 2.82 MiB | 237.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 3.13 MiB | 231.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 3.41 MiB | 228.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 3.63 MiB | 210.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 3.73 MiB | 214.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 3.87 MiB | 195.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 4.16 MiB | 208.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 4.32 MiB | 213.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 4.62 MiB | 205.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 4.73 MiB | 203.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 5.01 MiB | 220.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 5.29 MiB | 223.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 5.46 MiB | 232.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 5.74 MiB | 236.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 5.85 MiB | 214.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 6.13 MiB | 214.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 6.30 MiB | 235.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 6.59 MiB | 242.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 6.73 MiB | 218.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 7.02 MiB | 230.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 7.27 MiB | 231.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 7.57 MiB | 243.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 7.85 MiB | 249.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 7.98 MiB | 251.00 KiB/s[0K[2G[?25h[1G[?25lWriting objects:  41% (15/36), 8.29 MiB | 256.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 8.59 MiB | 267.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 8.84 MiB | 255.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 9.07 MiB | 241.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 9.18 MiB | 240.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 9.46 MiB | 223.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 9.74 MiB | 211.00 KiB/s[0K[1G[?25h[?25lWriting objects:  41% (15/36), 9.90 MiB | 224.00 KiB/s[0K[1G[?25hWriting objects:  41% (15/36), 10.16 MiB | 230.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 10.27 MiB | 208.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 10.43 MiB | 213.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 10.76 MiB | 229.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 11.01 MiB | 228.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 11.27 MiB | 239.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 11.49 MiB | 238.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 11.65 MiB | 254.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 11.88 MiB | 233.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 12.18 MiB | 234.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 12.27 MiB | 228.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 12.60 MiB | 228.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 12.87 MiB | 236.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 13.16 MiB | 248.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 13.45 MiB | 258.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 13.55 MiB | 263.00 KiB/s[0K[?25l
+[0K[?25h[?25lWriting objects:  41% (15/36), 13.85 MiB | 240.00 KiB/s[0K[1G[?25h[?25l
+[0K[?25hWriting objects:  41% (15/36), 14.02 MiB | 249.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 14.32 MiB | 241.00 KiB/s[0K[?25l
+[0K[?25h[?25lWriting objects:  41% (15/36), 14.60 MiB | 236.00 KiB/s[0K[1G[?25h[?25l
+[0K[?25hWriting objects:  41% (15/36), 14.88 MiB | 251.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 15.02 MiB | 249.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 15.26 MiB | 247.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 15.54 MiB | 245.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 15.65 MiB | 241.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 15.93 MiB | 227.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 16.24 MiB | 233.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 16.52 MiB | 244.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 16.77 MiB | 247.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 16.88 MiB | 250.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 17.18 MiB | 244.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 17.46 MiB | 227.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 17.63 MiB | 235.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 17.74 MiB | 219.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 18.05 MiB | 232.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 18.34 MiB | 240.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 18.62 MiB | 253.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 18.87 MiB | 245.00 KiB/s[0K[?25l
+[0K[?25h[?25lWriting objects:  41% (15/36), 18.98 MiB | 245.00 KiB/s[0K[1G[?25h[?25l
+[0K[?25hWriting objects:  41% (15/36), 19.24 MiB | 226.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 19.52 MiB | 216.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 19.70 MiB | 222.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 19.98 MiB | 227.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 20.26 MiB | 244.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 20.49 MiB | 244.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 20.65 MiB | 239.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 20.90 MiB | 237.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 21.18 MiB | 252.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 21.41 MiB | 236.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 21.70 MiB | 248.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 21.84 MiB | 242.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 22.10 MiB | 242.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 22.38 MiB | 242.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 22.62 MiB | 246.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 22.87 MiB | 232.00 KiB/s[0K[?25l
+[0K[?25h[?25lWriting objects:  41% (15/36), 23.05 MiB | 244.00 KiB/s[0K[1G[?25h[?25l
+[0K[?25hWriting objects:  41% (15/36), 23.34 MiB | 259.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 23.59 MiB | 252.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 23.85 MiB | 251.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 24.12 MiB | 249.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 24.29 MiB | 248.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 24.55 MiB | 240.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 24.82 MiB | 242.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 25.10 MiB | 253.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 25.38 MiB | 257.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 25.55 MiB | 258.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 25.68 MiB | 242.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 25.96 MiB | 235.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 26.10 MiB | 226.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 26.43 MiB | 233.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 26.71 MiB | 246.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 26.99 MiB | 260.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 27.27 MiB | 273.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 27.54 MiB | 279.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 27.79 MiB | 272.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 28.09 MiB | 266.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 28.37 MiB | 268.00 KiB/s[0K[?25l
+[0K[?25h[?25lWriting objects:  41% (15/36), 28.57 MiB | 244.00 KiB/s[0K[1G[?25h[?25l
+[0K[?25hWriting objects:  41% (15/36), 28.74 MiB | 255.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 29.02 MiB | 250.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 29.13 MiB | 234.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 29.41 MiB | 222.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 29.70 MiB | 212.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 29.88 MiB | 237.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 30.16 MiB | 237.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 30.26 MiB | 218.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 30.54 MiB | 229.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 30.80 MiB | 236.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 31.05 MiB | 234.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 31.15 MiB | 233.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 31.43 MiB | 229.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 31.71 MiB | 218.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 31.88 MiB | 229.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 32.16 MiB | 249.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 32.45 MiB | 263.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 32.74 MiB | 277.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 33.02 MiB | 291.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 33.29 MiB | 280.00 KiB/s[0K[?25l
+[0K[?25h[?25lWriting objects:  41% (15/36), 33.55 MiB | 275.00 KiB/s[0K[1G[?25h[?25l
+[0K[?25h[?25lWriting objects:  41% (15/36), 33.84 MiB | 274.00 KiB/s[0K[52G[?25h[?25l
+[0K[?25hWriting objects:  41% (15/36), 34.13 MiB | 275.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 34.41 MiB | 276.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 34.70 MiB | 284.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 34.98 MiB | 285.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 35.26 MiB | 285.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 35.51 MiB | 260.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 35.68 MiB | 266.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 35.96 MiB | 263.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 36.23 MiB | 257.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 36.43 MiB | 232.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 36.76 MiB | 260.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 37.04 MiB | 256.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 37.34 MiB | 259.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 37.43 MiB | 244.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 37.76 MiB | 278.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 38.04 MiB | 271.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 38.32 MiB | 271.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 38.60 MiB | 257.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 38.71 MiB | 256.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 38.98 MiB | 232.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 39.13 MiB | 235.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 39.32 MiB | 205.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 39.45 MiB | 195.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 39.73 MiB | 195.00 KiB/s[0K[?25l
+[0K[?25h[?25lWriting objects:  41% (15/36), 40.01 MiB | 197.00 KiB/s[0K[1G[?25h[?25l
+[0K[?25hWriting objects:  41% (15/36), 40.20 MiB | 221.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 40.48 MiB | 225.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 40.76 MiB | 249.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 41.04 MiB | 262.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 41.29 MiB | 255.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 41.46 MiB | 255.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 41.73 MiB | 249.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 41.80 MiB | 227.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 42.07 MiB | 213.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 42.26 MiB | 220.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 42.54 MiB | 231.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 42.68 MiB | 211.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 42.96 MiB | 216.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 43.24 MiB | 221.00 KiB/s[0K[?25l
+[0K[?25h[?25lWriting objects:  41% (15/36), 43.43 MiB | 245.00 KiB/s[0K[1G[?25h[?25l
+[0K[?25hWriting objects:  41% (15/36), 43.70 MiB | 238.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 43.98 MiB | 241.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 44.12 MiB | 220.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 44.41 MiB | 230.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 44.68 MiB | 236.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 44.77 MiB | 245.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 44.99 MiB | 232.00 KiB/s[0K[?25l
+[0K[?25h[?25lWriting objects:  41% (15/36), 45.27 MiB | 231.00 KiB/s[0K[1G[?25h[?25l
+[0K[?25hWriting objects:  41% (15/36), 45.55 MiB | 219.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 45.73 MiB | 229.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 45.84 MiB | 213.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 46.07 MiB | 209.00 KiB/s[0K[?25l
+[0K[?25h[?25lWriting objects:  41% (15/36), 46.40 MiB | 228.00 KiB/s[0K[1G[?25h[?25l
+[0K[?25hWriting objects:  41% (15/36), 46.68 MiB | 241.00 KiB/s[0K[?25l
+[0K[?25h[?25lWriting objects:  41% (15/36), 46.96 MiB | 254.00 KiB/s[0K[1G[?25h[?25l
+[0K[?25hWriting objects:  41% (15/36), 47.24 MiB | 266.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 47.51 MiB | 279.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 47.80 MiB | 278.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 48.09 MiB | 278.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 48.37 MiB | 278.00 KiB/s[0K[?25l
+[0K[?25h[?25lWriting objects:  41% (15/3[0K[1G[?25hWriting objects:  41% (15/36), 48.51 MiB | 259.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 48.78 MiB | 248.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 48.97 MiB | 256.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 49.25 MiB | 241.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 49.52 MiB | 231.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 49.80 MiB | 248.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 50.05 MiB | 256.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 50.19 MiB | 246.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 50.47 MiB | 259.00 KiB/s[0K[?25l
+[0K[?25h[?25lWriting objects:  41% (15/36), 50.75 MiB | 272.00 KiB/s[0K[1G[?25h[?25l
+[0K[?25hWriting objects:  41% (15/36), 51.03 MiB | 272.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 51.31 MiB | 279.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 51.59 MiB | 285.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 51.88 MiB | 285.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 52.16 MiB | 285.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 52.44 MiB | 285.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 52.73 MiB | 286.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 53.02 MiB | 286.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 53.28 MiB | 279.00 KiB/s[0K[?25l
+[0K[?25h[?25lWriting objects:  41% (15/36), 53.56 MiB | 272.00 KiB/s[0K[1G[?25h[?25l
+[0K[?25hWriting objects:  41% (15/36), 53.84 MiB | 271.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 54.06 MiB | 253.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 54.34 MiB | 255.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 54.63 MiB | 264.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 54.91 MiB | 266.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 55.19 MiB | 291.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 55.47 MiB | 283.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 55.75 MiB | 284.00 KiB/s[0K[?25l
+[0K[?25h[?25lWriting objects:  41% (15/36), 56.05 MiB | 284.00 KiB/s[0K[1G[?25h[?25l
+[0K[?25hWriting objects:  41% (15/36), 56.19 MiB | 283.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 56.45 MiB | 277.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 56.75 MiB | 278.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 57.03 MiB | 277.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 57.33 MiB | 278.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 57.61 MiB | 282.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 57.89 MiB | 285.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  41% (15/36), 58.17 MiB | 286.00 KiB/s[0K[?25l
+[0K[?25hWriting objects:  44% (16/36), 58.17 MiB | 286.00 KiB/s[0K[?25l
+Writing objects:  47% (17/36), 58.17 MiB | 286.00 KiB/s[0K
+Writing objects:  50% (18/36), 58.17 MiB | 286.00 KiB/s[0K
+Writing objects:  52% (19/36), 58.17 MiB | 286.00 KiB/s[0K
+Writing objects:  55% (20/36), 58.17 MiB | 286.00 KiB/s[0K
+[0K[?25hWriting objects:  58% (21/36), 58.17 MiB | 286.00 KiB/s[0K[?25l
+Writing objects:  61% (22/36), 58.17 MiB | 286.00 KiB/s[0K
+Writing objects:  63% (23/36), 58.17 MiB | 286.00 KiB/s[0K
+Writing objects:  66% (24/36), 58.17 MiB | 286.00 KiB/s[0K
+Writing objects:  69% (25/36), 58.17 MiB | 286.00 KiB/s[0K
+Writing objects:  72% (26/36), 58.17 MiB | 286.00 KiB/s[0K
+Writing objects:  75% (27/36), 58.17 MiB | 286.00 KiB/s[0K
+Writing objects:  77% (28/36), 58.17 MiB | 286.00 KiB/s[0K
+Writing objects:  80% (29/36), 58.17 MiB | 286.00 KiB/s[0K
+[0K[?25h[?25lWriting objects:  83% (30/36), 58.31 MiB | 286.00 KiB/s[0K[1G[?25h[?25l
+[0K[?25hWriting objects:  86% (31/36), 58.31 MiB | 286.00 KiB/s[0K[?25l
+Writing objects:  88% (32/36), 58.31 MiB | 286.00 KiB/s[0K
+Writing objects:  91% (33/36), 58.31 MiB | 286.00 KiB/s[0K
+Writing objects:  94% (34/36), 58.31 MiB | 286.00 KiB/s[0K
+Writing objects:  97% (35/36), 58.31 MiB | 286.00 KiB/s[0K
+Writing objects: 100% (36/36), 58.31 MiB | 286.00 KiB/s[0K
+[0K[?25hWriting objects: 100% (36/36), 58.35 MiB | 285.00 KiB/s, [0Kd[?25l
+one.[0K
+Total 36 (delta 2), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (2/2), done.[0K[?25l
+[0K[?25hremote: error: GH001: Large files detected. You may want [0Kt[?25l
+o try Git Large File Storage - https://git-lfs.github.com[0K.
+[0K
+remote: error: Trace: 95f99ceed3b1301bd8dd2c8f774f71bb[0K
+remote: error: See http://git.io/iEPt8g for more informat[0Ki
+on.[0K
+remote: error: File Data/wound_outlines/Experiment_1/Cond[0Ki
+tion_A/well_1/position_1/MPSA w2-l1-01009.tif is 133.98 M[0KB
+; this exceeds GitHub's file size limit of 100.00 MB[0K
+[0K[?25hTo https://github.com/zcolburn/CollectiveCellMigration.gi[0Kt[?25l
+[0K
+ ! [remote rejected] master -> master (pre-receive hook d[0Ke
+clined)[0K
+error: failed to push some refs to 'https://github.com/zc[0Ko
+lburn/CollectiveCellMigration.git'[0K
+[0K[?25h[?25l
+[0;32mZacharyColburn@Hathker [0;35m [0;33m/f/F_Drive/Graduate school/Resear[0Kc
+h/A549/Scratch assays/CMA_v1_small[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git i[0K[?25hn[0Ki[0Kt[0K[?25l
+[0K[?25hInitialized empty Git repository in F:/F_Drive/Graduate s[0Kc[?25l
+hool/Research/A549/Scratch assays/CMA_v1_small/.git/[0K
+[0K[?25h[?25l
+[0;32mZacharyColburn@Hathker [0;35m [0;33m/f/F_Drive/Graduate school/Resear[0Kc
+h/A549/Scratch assays/CMA_v1_small[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25h
